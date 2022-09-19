@@ -1,0 +1,7 @@
+CREATE DATABASE api;
+
+CREATE USER api_user;
+
+ALTER user api_user WITH ENCRYPTED PASSWORD 'api_password';
+
+GRANT ALL PRIVILEGES ON DATABASE api TO api_user;
