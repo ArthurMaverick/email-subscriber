@@ -7,7 +7,7 @@
 
 ---
 
-An email subscriber is an internet user who permits a particular brand to send regular emails to them. When users voluntarily subscribe to receive email newsletters, they launch what ideally grows into mutually beneficial relationships.
+Email marketing is one of the most cost-effective marketing strategy for small businesses. According to the Direct Marketing Association, email marketing on average sees a 4300 percent return on investment (ROI) for businesses in the United States.
 
 ## Contribua com esse Projeto <3
 <a href='https://ko-fi.com/arthursantos88419' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
